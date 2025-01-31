@@ -21,7 +21,7 @@ Los proeyectos desarrollados en este daily son basicos con estos 4 lenguajes de 
 
 ## Ver los proyectos
 
-- todos los proyectos los puedes ven en [Proyectos 🌸](https://github.com/Yamileth-FR/Daily-Dev-Yami/blob/main/enlacesDeProyectos)
+- todos los proyectos los puedes ven en [Proyectos 🌸](https://github.com/Yamileth-FR/Daily-Dev-Yami/blob/main/enlacesDeProyectos.md)
 
 ## Contacto  
 ✉️ Email: yamileth@akiomae.com  
